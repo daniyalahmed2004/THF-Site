@@ -1,0 +1,157 @@
+header{
+
+   background-image: url(image/worker.jpg);
+   background-position: center;
+   background-size: cover;
+   height: 100vh;
+
+}
+.header-text{
+
+   margin: 10% 40%;
+   background-color: aliceblue;
+   padding: 20px 10px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.ABOUT{
+
+   background-color: #051423;
+   color: #FFF;
+   padding: 5% 5%;
+   height:800px ;
+
+}
+.ABOUT h1{
+
+   text-align: center;
+   font-size: 60px;
+   margin-bottom: 5%;
+
+}
+.vision{
+
+   background-color:#051322;
+   color: #FFF;
+   padding: 5% 5%;
+   height: 400px;
+   
+   
+}
+.skilled{
+
+   background-color: #051101;
+   color: #FFF;
+   text-align: center;
+   height: 600px;
+   padding: 15% 20%;
+
+}
+.skilled h2{
+
+   font-size: 70px;
+
+}
+.institutes{
+
+   background-color: #051423;
+   padding: 5% 2%;
+
+}
+.institutes h1{
+
+   text-align: center;
+   font-size: 50px;
+   margin: 3% ;
+
+}
+.institutes img{
+
+   object-fit: cover;
+   height: 200px;
+
+}
+.THF-growth{
+
+   background-image: url(image/writing.jpg);
+   background-position: center;
+   background-size: cover;
+   height: 100vh;
+   text-align: center;
+   color: #000;
+   padding: 5% 5%;
+
+}
+.THF-growth h1 {
+
+   font-size: 60px;
+  
+}
+.growth-text h2 {
+
+   margin-top: 20%;
+   font-weight: bold;
+   font-family: monospace;
+   color: darkgreen;
+   font-size: 70px;
+
+}
+.donors{
+   background-color: #0b213f;
+   color: #FFF;
+   height: 700px;
+   
+}
+#donors h1{
+   text-align: center;
+  padding-top: 7%;
+}
+.images-carousel{
+   height: 1000px;
+   width: 1000px;
+   padding: 10% 35%;
+}
+.feedback{
+   background-color: #040911;
+   color: #FFF;
+   height: 700px ;  
+   text-align: center;
+   
+}
+.feedback h1{
+   padding: 5%;
+   font-size: 50px;
+}
+#demo{
+   margin:5% 20% ;
+   background-color:#0b213f;
+   height: 300px;
+   width: 800px;
+
+
+}
+.footer{
+   background-color: #0b213f;
+   color: #FFF;
+   padding: 5% 2%;
+   font-size: 13px;
+}
+footer h4{
+   font-size: 16px;
+   padding: 3% 2%;
+}
+ footer img{
+   width: 70px;
+   height: 70px;
+
+}
+footer i{
+   width: 20px;
+   height: 40px;
+}
+footer a{
+   color: #FFF;
+}
+.vision{
+   padding: 5% 5%;
+}
